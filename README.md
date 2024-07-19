@@ -41,5 +41,9 @@ Requisitos de entrega:
 * Si se desea cambiar el navegador a usar en cada caso, esta parametrizado en el feature, y para cambiarlo entre las opciones solicitadas, solo es necesario en los ejemmplos  cambiar el valor de la variable "navegador" por : "firefox" o "chrome", según su elección.
 
 La Aplicacion Parabank, fue dockerizada y Testeada en el endPoint local http://localhost:8080/parabank/index.htm
+
 La imagen de Docker se puede descargar en:  https://hub.docker.com/r/parasoft/parabank/
+
 O se puede ejecutar por consola  el comando: docker run -d -p 8080:8080 -p 61616:61616 -p 9001:9001 parasoft/parabank
+
+Se Creo una instancia de DB en H2 local para guardar los datos de los usuarios a usar en los Test.
