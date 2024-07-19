@@ -11,20 +11,19 @@ Requisitos de entrega:
 7. Subir la automatización a un repositorio de GitHub.
 
 ### Caso de uso:
-1.  Registro:
-     1.    Haga clic en Registro 
+1. Registro:
+      1.    Haga clic en Registro 
       2.	Rellene el formulario de registro con los datos requeridos 
       3.	Pulse de nuevo en <Registro>. 
       4.	Compruebe que el texto "Su cuenta se ha creado correctamente. En la pantalla se puede ver "You are now logged in". 
 
-2.  Abrir una nueva cuenta :
+2. Abrir una nueva cuenta :
+   1. Haga clic en Abrir nueva cuenta.
+   2. En el apartado "¿Qué tipo de cuenta desea abrir?" seleccione la opción <SAVINGS>.
+   3. Haga clic en <Abrir nueva cuenta>
+   4. Compruebe si el texto "Congratulations, your account is now open." está visible en la pantalla
 
-   1.    Haga clic en Abrir nueva cuenta.
-   2.	En el apartado "¿Qué tipo de cuenta desea abrir?" seleccione la opción <SAVINGS>.
-   3.	Haga clic en <Abrir nueva cuenta>
-   4.	Compruebe si el texto "Congratulations, your account is now open." está visible en la pantalla
-
-4. Transferir Fondos :
+3. Transferir Fondos :
    1.	Haga clic en <Transferencia de fondos>
    2.	Compruebe que el texto "Transferir fondos" es visible en la pantalla
    3.	En el campo Importe: $ introduzca el importe a transferir
